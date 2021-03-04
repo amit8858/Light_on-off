@@ -1,0 +1,42 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box; 
+}
+
+.main-heading h1 {
+    color: red;
+    margin-bottom: 20px;
+    
+}
+
+body {
+    font-family: "Inconsolata",sans-serif;
+    height: 100vh;
+    background: #30336b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #ffff;
+}
+
+
+button {
+    display: inline-block;
+    background: red;
+    color: #fff;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 10px;
+    z-index: 10000;
+}
+
+img {
+    width: px;
+
+}
